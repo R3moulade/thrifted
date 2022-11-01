@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webapp-build/static/css/main.37cb861a.css",
-    "main.js": "/webapp-build/static/js/main.7d170c34.js",
-    "static/js/787.557e9cbd.chunk.js": "/webapp-build/static/js/787.557e9cbd.chunk.js",
+    "main.js": "/webapp-build/static/js/main.6ff71072.js",
+    "static/js/787.fdca6c64.chunk.js": "/webapp-build/static/js/787.fdca6c64.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/webapp-build/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/webapp-build/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/webapp-build/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -13,11 +13,11 @@
     "static/media/Moon.jpg": "/webapp-build/static/media/Moon.49221285279c023b979f.jpg",
     "index.html": "/webapp-build/index.html",
     "main.37cb861a.css.map": "/webapp-build/static/css/main.37cb861a.css.map",
-    "main.7d170c34.js.map": "/webapp-build/static/js/main.7d170c34.js.map",
-    "787.557e9cbd.chunk.js.map": "/webapp-build/static/js/787.557e9cbd.chunk.js.map"
+    "main.6ff71072.js.map": "/webapp-build/static/js/main.6ff71072.js.map",
+    "787.fdca6c64.chunk.js.map": "/webapp-build/static/js/787.fdca6c64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37cb861a.css",
-    "static/js/main.7d170c34.js"
+    "static/js/main.6ff71072.js"
   ]
 }
