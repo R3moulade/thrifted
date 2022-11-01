@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webapp-project/static/css/main.863379a7.css",
+    "main.js": "/webapp-project/static/js/main.eabb3b5c.js",
+    "static/js/787.557e9cbd.chunk.js": "/webapp-project/static/js/787.557e9cbd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/webapp-project/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/webapp-project/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/webapp-project/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/webapp-project/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/webapp-project/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "service-worker.js": "/webapp-project/service-worker.js",
+    "static/media/logo-thrifted.png": "/webapp-project/static/media/logo-thrifted.d84f8ea6188bd0540563.png",
+    "static/media/Moon.jpg": "/webapp-project/static/media/Moon.49221285279c023b979f.jpg",
+    "index.html": "/webapp-project/index.html",
+    "main.863379a7.css.map": "/webapp-project/static/css/main.863379a7.css.map",
+    "main.eabb3b5c.js.map": "/webapp-project/static/js/main.eabb3b5c.js.map",
+    "787.557e9cbd.chunk.js.map": "/webapp-project/static/js/787.557e9cbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863379a7.css",
+    "static/js/main.eabb3b5c.js"
+  ]
+}
